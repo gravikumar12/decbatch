@@ -1,0 +1,7 @@
+hi
+<<<<<<< HEAD
+name ravi kumar
+123
+=======
+123345
+>>>>>>> feature2
